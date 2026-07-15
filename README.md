@@ -80,7 +80,7 @@ I'm a **Fullstack Developer** with 2.5+ years of commercial experience, passiona
 ### 📫 How to reach me
 *   📧 **Email:** vlad.orlik.2016@gmail.com
 *   💬 **Telegram:** [@WALKWAY36](https://t.me/WALKWAY36)
-*   🔗 **LinkedIn:** [walkway36] (https://www.linkedin.com/in/walkway36)
+*   🔗 **LinkedIn:** [walkway36](https://www.linkedin.com/in/walkway36)
 
 ---
 
