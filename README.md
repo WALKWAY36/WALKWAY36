@@ -74,7 +74,7 @@ I'm a **Fullstack Developer** with 2.5+ years of commercial experience, passiona
 
 ### Pet Projects
 
-[vscode-ws-client] https://github.com/WALKWAY36/vscode-ws-client 
+[vscode-ws-client](https://github.com/WALKWAY36/vscode-ws-client) 
 
 ---
 
