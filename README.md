@@ -70,6 +70,14 @@ I'm a **Fullstack Developer** with 2.5+ years of commercial experience, passiona
 
 ---
 
+---
+
+### Pet Projects
+
+[vscode-ws-client] https://github.com/WALKWAY36/vscode-ws-client 
+
+---
+
 ### 📊 GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=WALKWAY36&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Vladislav's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WALKWAY36&langs_count=8&layout=compact&hide_border=true&theme=dark" alt="Vladislav's top languages" /> |
