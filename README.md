@@ -20,7 +20,7 @@
 
 ## Обо мне
 
-Инженер с математическим образованием и опытом разработки production-систем на **Node.js, TypeScript и React**. Последние годы развиваюсь в направлении **Machine Learning, NLP, LLM и Reinforcement Learning**.
+Инженер с математическим образованием и опытом разработки production-систем на  **Python Node.js, TypeScript и React**. Последние годы развиваюсь в направлении **Machine Learning, NLP, LLM и Reinforcement Learning**.
 
 Имею фундаментальную подготовку в математике, нейронных сетях и машинном обучении. В магистратуре занимался **Computer Vision и Human Activity Recognition**, разработал end-to-end pipeline для анализа видеоповедения.
 
