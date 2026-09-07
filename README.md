@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Владислав Орлов</h1>
 
 <p align="center">
-  <strong>Fullstack Enginee | ML / NLP Engineer | Reinforcement Learning</strong>
+  <strong>Fullstack Engineer | ML / NLP Engineer | Reinforcement Learning</strong>
 </p>
 
 <p align="center">
